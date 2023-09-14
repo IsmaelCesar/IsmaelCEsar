@@ -1,6 +1,6 @@
 ### Greetings! I'm Ismael Cesar 
 
-  - 🎓 I'm a master's stutent at the Federal University of Pernambuco (UFPE - acronym in portuguese). 
+  - 🎓 I'm a PhD. stutent at the Federal University of Pernambuco (UFPE - acronym in portuguese). 
   - 🔬 My research field is mutidisciplinary involving **Quantum Computing** and **Machine Learning**. 
   - 👷 I've been working as a fullstack webdeveloper using the ruby on rails framework and postgresql as database
   
